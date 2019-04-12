@@ -1,0 +1,96 @@
+header {
+    width: 100%;
+    line-height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    color: white;
+    border-bottom: 2px solid black;
+    background: #87cefa;
+    z-index: 2;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding: 0;
+
+}
+
+.cabecalho {
+    padding-top: 30px;
+}
+
+.logo {
+    float: left;
+
+}
+header ul {
+    text-decoration: none;
+    color: white;
+    width:200px;
+    height:auto;
+    margin:0;
+    padding:0;
+    display:inline-block;
+}
+
+.sessao1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.sessao2 ul{
+    list-style-type: none;
+    color: white;
+    background: #87cefa;
+    border-radius: 1px 5px;
+}
+
+.sessao2 ol{
+    list-style-type: none;
+    color: black;
+    background: grey;
+    border-radius: 1px 5px;
+}
+
+.sessao2 ul :hover {
+    background: #90EE90;
+    color: #FF6347;
+
+}
+.sessao2 ol :hover {
+background: #90EE90;
+color: #FF6347;
+}
+
+.sessao3 {
+
+    font-weight: bold;
+}
+
+input:hover {
+    background: #90EE90;
+}
+
+.sessao4 {
+    border: black;
+
+}
+
+.sessao4 th {
+    background: black;
+    color: white;
+
+}
+
+.sessao4 td {
+    background: grey;
+    color: black;
+    font-weight: bold;
+}
+.rodape {
+    background: grey;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+
+}
